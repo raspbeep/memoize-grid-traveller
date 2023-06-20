@@ -1,3 +1,0 @@
-/Users/pavel/dev/untitled/CMakeFiles/untitled.dir
-/Users/pavel/dev/untitled/CMakeFiles/edit_cache.dir
-/Users/pavel/dev/untitled/CMakeFiles/rebuild_cache.dir

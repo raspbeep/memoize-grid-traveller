@@ -67,6 +67,6 @@ int main() {
     printf("%d\n", grid_traveller(1, 1, &memoize));
     printf("%d\n", grid_traveller(3, 4, &memoize));
     printf("%d\n", grid_traveller(5, 6, &memoize));
-    printf("%d\n", grid_traveller(1, 7, &memoize));
+    printf("%d\n", grid_traveller(18, 16, &memoize));
     return 0;
 }

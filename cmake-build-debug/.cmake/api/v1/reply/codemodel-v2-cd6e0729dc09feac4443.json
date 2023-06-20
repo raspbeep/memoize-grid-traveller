@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "untitled",
+					"name" : "grid_traveller",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "untitled::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled-Debug-afac697ececff24b4f75.json",
-					"name" : "untitled",
+					"id" : "grid_traveller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grid_traveller-Debug-cbe79e8aada530e93133.json",
+					"name" : "grid_traveller",
 					"projectIndex" : 0
 				}
 			]
